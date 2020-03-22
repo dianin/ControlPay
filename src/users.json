@@ -1,0 +1,54 @@
+ [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Willington",
+      "age": 24,
+      "login": "admin@test.com",
+      "password": "qwerty1",
+      "user_role": "Admin",
+      "permissions": [ "READ", "CREATE", "UPDATE", "DELETE", "BULK_CREATE" ]
+    },
+    {
+      "id": 2,
+      "first_name": "Peter",
+      "last_name": "Stones",
+      "age": 29,
+      "login": "j.accountant@test.com",
+      "password": "qwerty2",
+      "user_role": "Junior accountant",
+      "permissions": ["READ"]
+    },
+    {
+      "id": 3,
+      "first_name": "Mark",
+      "last_name": "Ditriht",
+      "age": 42,
+      "login": "accountant@test.com",
+      "password": "qwerty3",
+      "user_role": "Accountant",
+      "permissions": ["READ", "CREATE"]
+    },
+    {
+      "id": 4,
+      "first_name": "Maxime",
+      "last_name": "Trudeau",
+      "age": 31,
+      "login": "s.accountant@test.com",
+      "password": "qwerty4",
+      "user_role": "Senior accountant",
+      "permissions": ["READ", "CREATE", "UPDATE"]
+    },
+    {
+      "id": 5,
+      "first_name": "Derek",
+      "last_name": "Wolfer",
+      "age": 20,
+      "login": "manager@test.com",
+      "password": "qwerty5",
+      "user_role": "Manager",
+      "permissions": ["READ", "CREATE", "UPDATE", "BULK_CREATE"]
+    }
+ ]
+
+

@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suite" verbose="1" preserve-order="true" group-by-instances="true">
+    <test name="Test_Full">
+        <classes>
+            <class name="Tests_API.Test_Login_API">
+                <methods>
+                    <include name="login_VerifyPermissionAndProfile"/>
+                </methods>
+            </class>
+            <class name="Tests_UI.Test_Login_UI">
+                <methods>
+                    <include name="loginExistingUsers_AddAvatar"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
