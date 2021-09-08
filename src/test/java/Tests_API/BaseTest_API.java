@@ -80,6 +80,9 @@ public class BaseTest_API {
                 .body(request)
                 .header("Authorization", header)
                 .when()
+                .expect()
+                .statusCode(200)
+                .when()
                 .post("/token");
         return response;
     }

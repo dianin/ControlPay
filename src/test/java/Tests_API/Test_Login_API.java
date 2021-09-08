@@ -26,16 +26,20 @@ public class Test_Login_API extends BaseTest_API {
     @Description("Validation of the access token during the login, the validity of permissions and validity of userProfile json")
     @Test(dataProvider = "UserId")
     public void login_VerifyPermissionAndProfile(Integer userId) {
+        login(userId);
+
+        response = createRequestForProfile(token_type, access_token);
+        verifyStatusCode(response, 200);
+        verifyUserProfile(response, userId);
+    }
+
+    private void login(Integer userId) {
         requestBody = createLoginBody(userId);
         response = createRequestForToken(requestBody, encode(content));
         verifyStatusCode(response, 200);
         access_token = verifyAccessToken_withExpires(response);
         token_type = getTokenType(response);
         verifyUserPermissions(access_token, userId);
-
-        response = createRequestForProfile(token_type, access_token);
-        verifyStatusCode(response, 200);
-        verifyUserProfile(response, userId);
     }
 
 }

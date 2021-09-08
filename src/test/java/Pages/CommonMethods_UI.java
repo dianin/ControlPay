@@ -10,16 +10,13 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 
 public class CommonMethods_UI {
 
-    WebDriver driver;
+    private WebDriver driver;
     private WebDriverWait shortWait;
-    private WebDriverWait regularWait;
-    private WebDriverWait longWait;
+
 
     public CommonMethods_UI(WebDriver driver) {
         this.driver = driver;
         shortWait = new WebDriverWait(driver, 10);
-        regularWait = new WebDriverWait(driver, 20);
-        longWait = new WebDriverWait(driver, 30);
     }
 
     public String getText(By locator) {

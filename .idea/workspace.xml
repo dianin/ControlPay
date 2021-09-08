@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="974ce361-a362-4977-a3b6-9d8b72194543" name="Default Changelist" comment="" />
+    <list default="true" id="974ce361-a362-4977-a3b6-9d8b72194543" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CommonMethods_UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/CommonMethods_UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests_API/BaseTest_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests_API/BaseTest_API.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests_API/Test_Login_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests_API/Test_Login_API.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests_UI/Test_Login_UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests_UI/Test_Login_UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CommonMethods_API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CommonMethods_UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/CommonMethods_UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ProfilePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ProfilePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests_API/TEST_Login_API.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests_API/TEST_Login_API.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests_UI/Test_Login_UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests_UI/Test_Login_UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/DriverHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/DriverHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/TestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -31,7 +49,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/ValidatorTestProject/pom.xml" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QA/ST_Appium_Android/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -86,7 +105,13 @@
       <workItem from="1584650123662" duration="7103000" />
       <workItem from="1584732448618" duration="12136000" />
       <workItem from="1584796459862" duration="30141000" />
-      <workItem from="1584870673342" duration="20000000" />
+      <workItem from="1584870673342" duration="20504000" />
+      <workItem from="1584916687289" duration="60000" />
+      <workItem from="1585032988245" duration="5521000" />
+      <workItem from="1585650274328" duration="2728000" />
+      <workItem from="1585671734296" duration="1401000" />
+      <workItem from="1585677734728" duration="603000" />
+      <workItem from="1585752891640" duration="19000" />
     </task>
     <servers />
   </component>

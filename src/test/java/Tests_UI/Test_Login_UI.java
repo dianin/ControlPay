@@ -37,7 +37,6 @@ public class Test_Login_UI {
         createChromeDriver();
         mainPageUI = new MainPage(getDriver());
         profilePageUI = new ProfilePage(getDriver());
-        mainPageUI.openMainPage();
     }
 
     @DataProvider (name = "UserId")
@@ -48,6 +47,7 @@ public class Test_Login_UI {
     @Description("In this text, the user logs in, goes to the profile and sets an avatar")
     @Test (dataProvider = "UserId")
     public void loginExistingUsers_AddAvatar(Integer userId) {
+        mainPageUI.openMainPage();
         mainPageUI.inputEmail(usersList.get(userId).getLogin());
         mainPageUI.inputPassword(usersList.get(userId).getPassword());
         mainPageUI.submit();
