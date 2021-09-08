@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974ce361-a362-4977-a3b6-9d8b72194543" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CommonMethods_UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/CommonMethods_UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests_API/BaseTest_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests_API/BaseTest_API.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests_API/Test_Login_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests_API/Test_Login_API.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests_UI/Test_Login_UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests_UI/Test_Login_UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Entities/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CommonMethods_API.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CommonMethods_UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/CommonMethods_UI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ProfilePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ProfilePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests_API/TEST_Login_API.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests_API/TEST_Login_API.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests_UI/Test_Login_UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests_UI/Test_Login_UI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/DriverHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/DriverHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/TestListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/UserInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +101,37 @@
       <workItem from="1585671734296" duration="1401000" />
       <workItem from="1585677734728" duration="603000" />
       <workItem from="1585752891640" duration="19000" />
+      <workItem from="1631100027179" duration="251000" />
     </task>
+    <task id="LOCAL-00001" summary="df">
+      <created>1631100060802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631100060802</updated>
+    </task>
+    <task id="LOCAL-00002" summary="df">
+      <created>1631100141046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631100141046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 1">
+      <created>1631100248607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631100248607</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 2">
+      <created>1631100265346</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631100265346</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,5 +154,9 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="df" />
+    <MESSAGE value="commit 1" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
