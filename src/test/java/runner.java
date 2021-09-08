@@ -20,9 +20,6 @@ public class runner {
 
             return result;
         } else return null;
-
-
-
     }
 
 
